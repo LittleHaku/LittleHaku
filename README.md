@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=c,python,git,java,javascript,cpp,css,html,kotlin,linux,django,latex,postgres,bash&perline=7" />
 </p>
 
-### 🛠 My favourite tools:
+### 🛠 Tools that I like to use:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=notion,obsidian,vscode,idea,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=obsidian,vscode,idea,androidstudio,notion,figma" />
 </p>
