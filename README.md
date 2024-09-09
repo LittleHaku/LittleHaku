@@ -10,9 +10,8 @@
 
 <div align="center">
  
- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/153531334751420416?simple=true)
+ 
   <img src="https://komarev.com/ghpvc/?username=LittleHaku&style=flat-square&color=blue" alt=""/>
-  [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/153531334751420416)](https://dev.discordprofiles.me/openspotify/153531334751420416)
 
 </div>
 
