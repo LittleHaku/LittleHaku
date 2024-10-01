@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h3 align="center">Computer science student at UAM, Madrid</h3>
+<h3 align="center">Data science student at UAM, Madrid</h3>
 
 <div align="center">
  
