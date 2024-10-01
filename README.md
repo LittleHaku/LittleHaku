@@ -6,8 +6,6 @@
   </a>
 </div>
 
-<h3 align="center">Data science student at UAM, Madrid</h3>
-
 <div align="center">
  
  
@@ -15,11 +13,7 @@
 
 </div>
 
-<div align="center">
-
-</div>
-
-
+<h3 align="center">Data science student at UAM, Madrid</h3>
 
 ### 🛠 Languages and technologies that I know:
 <p align="center">
