@@ -1,26 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Iván</h1>
-<div id="badges" align="center">
- <a href="https://www.linkedin.com/in/ivandhs/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+## Iván Sotillo
 
-<div align="center">
- 
- 
-  <img src="https://komarev.com/ghpvc/?username=LittleHaku&style=flat-square&color=blue" alt=""/>
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivandelhorno@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivansotillo)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LittleHaku)
 
-</div>
+- Degree in Computer Science
+- Master in Data Science
+- Currently Researching @ UAM
 
-<h3 align="center">Data science student at UAM, Madrid</h3>
-
-### 🛠 Languages and technologies that I know:
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,git,java,javascript,cpp,css,html,kotlin,linux,django,latex,postgres,bash&perline=7" />
-</p>
-
-### 🛠 Tools that I like to use:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=obsidian,vscode,idea,androidstudio,notion,figma" />
-</p>
+> More Information: [ivansotillo.vercel.app](https://www.ivansotillo.vercel.app)
