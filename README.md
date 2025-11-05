@@ -9,4 +9,4 @@
 - Master in Data Science
 - Currently Researching @ UAM
 
-> More Information: [ivansotillo.vercel.app](https://www.ivansotillo.vercel.app)
+> More Information in my portfolio: [ivansotillo.vercel.app](https://ivansotillo.vercel.app/)
